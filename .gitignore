@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+dist/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Environment — NEVER commit
+.env
+
+# macOS
+.DS_Store
